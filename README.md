@@ -1,4 +1,4 @@
-PROJECT 3- SMS SPAM DETECTION Goal: Classify SMS messages as spam or ham using ML models.
+TASK 3- SMS SPAM DETECTION Goal: Classify SMS messages as spam or ham using ML models.
 
 ->Steps:
 
@@ -8,7 +8,7 @@ PROJECT 3- SMS SPAM DETECTION Goal: Classify SMS messages as spam or ham using M
 4. Clean Text (lowercase, remove URLs, symbols, digits)
 5. TF-IDF Vectorization
 6. Train-Test Split
-7.Train Models:
+7. Train Models:
 -Naive Bayes
 -Logistic Regression
 -Support Vector Machine (SVM)
